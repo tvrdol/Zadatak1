@@ -1,0 +1,13 @@
+C:\Users\Tonino\Documents\za faks\programiranje u visal studiu\PzW\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\Tonino\Documents\za faks\programiranje u visal studiu\PzW\Zadatak1\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\Tonino\Documents\za faks\programiranje u visal studiu\PzW\Zadatak1\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\Tonino\Documents\za faks\programiranje u visal studiu\PzW\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csprojResolveAssemblyReference.cache
+C:\Users\Tonino\Documents\za faks\programiranje u visal studiu\PzW\Zadatak1\Zadatak1\obj\Debug\MainWindow.baml
+C:\Users\Tonino\Documents\za faks\programiranje u visal studiu\PzW\Zadatak1\Zadatak1\obj\Debug\MainWindow.g.cs
+C:\Users\Tonino\Documents\za faks\programiranje u visal studiu\PzW\Zadatak1\Zadatak1\obj\Debug\App.g.cs
+C:\Users\Tonino\Documents\za faks\programiranje u visal studiu\PzW\Zadatak1\Zadatak1\obj\Debug\Zadatak1_MarkupCompile.cache
+C:\Users\Tonino\Documents\za faks\programiranje u visal studiu\PzW\Zadatak1\Zadatak1\obj\Debug\Zadatak1.g.resources
+C:\Users\Tonino\Documents\za faks\programiranje u visal studiu\PzW\Zadatak1\Zadatak1\obj\Debug\Zadatak1.Properties.Resources.resources
+C:\Users\Tonino\Documents\za faks\programiranje u visal studiu\PzW\Zadatak1\Zadatak1\obj\Debug\Zadatak1.csproj.GenerateResource.Cache
+C:\Users\Tonino\Documents\za faks\programiranje u visal studiu\PzW\Zadatak1\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\Tonino\Documents\za faks\programiranje u visal studiu\PzW\Zadatak1\Zadatak1\obj\Debug\Zadatak1.pdb
